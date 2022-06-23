@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.333331in" height="0.333331in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 333.33 333.33"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#039979;stroke-width:9;stroke-miterlimit:2.61313}
+    .str2 {stroke:#039979;stroke-width:5.69;stroke-miterlimit:2.61313}
+    .str3 {stroke:#039979;stroke-width:5.69;stroke-miterlimit:2.61313}
+    .str1 {stroke:#039979;stroke-width:5.69;stroke-miterlimit:2.61313}
+    .str6 {stroke:#039979;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.74198}
+    .str5 {stroke:#039979;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.74198}
+    .str4 {stroke:#039979;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.74198}
+    .fil0 {fill:none}
+    .fil1 {fill:#039979;}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="list.svg">
+   <g>
+    <rect class="fil0 str0" x="93.18" y="72.79" width="150.18" height="188.65" rx="8.05" ry="8.05"/>
+    <rect class="fil0 str1" x="182.76" y="93.56" width="39.21" height="39.21" rx="4.58" ry="4.58"/>
+    <rect class="fil0 str2" x="182.76" y="150.28" width="39.21" height="39.21" rx="4.03" ry="4.03"/>
+    <rect class="fil0 str3" x="182.76" y="206.31" width="39.21" height="39.21" rx="4.03" ry="4.03"/>
+    <line class="fil0 str4" x1="111.62" y1="111.8" x2="169.7" y2= "111.8" />
+    <line class="fil0 str5" x1="111.83" y1="169.2" x2="169.91" y2= "169.2" />
+    <line class="fil0 str6" x1="111.15" y1="226.32" x2="169.22" y2= "226.32" />
+    <path class="fil1" d="M193.9 106.47l0 0c1.65,-1.65 4.35,-1.65 5.99,0l8.17 8.17 18.64 -18.64c1.65,-1.65 4.34,-1.65 5.99,0l0 0c1.65,1.65 1.65,4.35 0,5.99l-21.5 21.5c-0.86,0.86 -2,1.27 -3.13,1.24 -1.13,0.04 -2.28,-0.37 -3.13,-1.24l-11.03 -11.03c-1.65,-1.65 -1.65,-4.35 0,-5.99z"/>
+    <path class="fil1" d="M193.91 163.87l0 0c1.65,-1.65 4.34,-1.65 5.99,0l8.17 8.17 18.64 -18.64c1.65,-1.65 4.34,-1.65 5.99,0l0 0c1.65,1.65 1.65,4.34 0,5.99l-21.5 21.5c-0.86,0.86 -2,1.27 -3.13,1.23 -1.13,0.04 -2.28,-0.37 -3.13,-1.23l-11.03 -11.03c-1.65,-1.65 -1.65,-4.34 0,-5.99z"/>
+    <path class="fil1" d="M194.59 219.9l0 0c1.65,-1.65 4.34,-1.65 5.99,0l8.17 8.17 18.64 -18.63c1.65,-1.65 4.35,-1.65 5.99,0l0 0c1.65,1.65 1.65,4.34 0,5.99l-21.5 21.5c-0.86,0.86 -2,1.27 -3.13,1.23 -1.13,0.04 -2.28,-0.37 -3.13,-1.23l-11.03 -11.03c-1.65,-1.65 -1.65,-4.34 0,-5.99z"/>
+   </g>
+   <rect class="fil0" x="1.61" y="0.97" width="333.33" height="332.29"/>
+  </g>
+ </g>
+</svg>

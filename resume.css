@@ -1,0 +1,186 @@
+
+:root{
+	--main:#222A57;
+	--other:#469EED;
+	--lighter:#36428A;
+}
+*{	
+	font-family:sans-serif;
+	box-sizing:border-box;
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+p{font-size:0.8rem; 
+	text-align: justify;}
+a{
+	color:yellow;
+}
+
+body{
+	width:100%;
+	padding-top:5vh;
+	padding-bottom:5vh;
+	height:100vh;
+	--other:#469EED;
+}
+.home{
+	width:40px;
+	height:40px;
+	position:absolute;
+	top:2px;
+	left:2px;
+}
+.home img{
+	height:100%;
+	width:100%;
+}
+.file-holder{
+	width:500px;
+	height:90vh;
+	margin:auto;
+	background-color: white;
+	box-shadow:-1px 1.5px 10px -2px;
+	display:flex;
+}
+aside{
+	width:38%;
+	height:100%;
+	background-color:var(--main);
+	padding:20% 5%;
+	display:flex;
+	flex-direction: column;
+	justify-content: space-between;
+	color:white;
+}
+aside p{
+	font-size:0.7rem;
+}
+main{
+	width:62%;
+	height:100%;
+	padding:19% 4%;
+}
+#name{
+	color:var(--main);
+	text-align: center;
+	border-bottom:1px solid var(--main);
+	line-height: 3rem;
+}
+#firstname{margin-right:15px;}
+
+#objective, #experience, #education{
+	background-color: var(--other);
+	margin-top:20px;
+	margin-bottom:10px;
+	padding:3px;
+	color:white;
+}
+#experience,#education{
+	margin-bottom: 10px;
+	margin-top:40px;
+}
+#obj-text{
+	color:var(--main);
+}
+#work, #cert{
+	color:var(--main);
+	font-weight:bold;
+	margin-bottom:7px;
+	margin-top:10px;
+	text-align: left;
+}
+#role, #inst{
+	color:var(--main);
+	text-align: left;
+	margin-bottom:5px;
+}
+#date{float:right;}
+#ans{
+	margin-bottom:5px;
+	text-align:justify;
+}
+#query{
+	font-weight:bold;
+}
+#skill ul, #hobbies ul{
+	font-size:0.7rem;
+	list-style: none;
+}
+#skill li, #hobbies li{
+	margin-bottom:3px;
+}
+#contx, #skix, #hobx{
+	margin-bottom:3px;
+	color:var(--other);
+}
+#print{
+	width:50px;
+	height:50px;
+	position: fixed;
+	left:70%;
+	top:80%;
+	background-color:var(--other);
+	box-shadow:0px 20px 20px -18px;
+	border-radius:50%;
+}
+#message{
+	width:90%;
+	height:90vh;
+	display:none;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+@media only screen and (max-width:720px){
+
+body{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+
+}
+#download{
+	width:100px;
+	height:30px;
+	background-color:green;
+	text-align:center;
+	line-height:30px;
+	color:white;
+	font-weight:bold;
+	border-radius: 15px;
+}
+.downolad{
+	margin-top:100px;
+
+}
+
+#message{
+	margin:auto;
+	width:90%;
+	padding:10px;
+	height:40vh;
+	background-color:yellow;
+	text-align: justify;
+	color:red;
+	display:flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	box-shadow:0px 0px 5px -2px black;
+} 
+
+#sign{
+	margin-top:10vh;
+}
+
+.file-holder{
+	display:none;
+ }
+ #print{
+ 	display: none;
+ }
+ 
+}
