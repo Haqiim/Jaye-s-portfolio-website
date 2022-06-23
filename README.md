@@ -1,3 +1,3 @@
 # Jaye-s-portfolio-website
 
-Jsut me building my portfolio website.
+Just me building my portfolio website.
